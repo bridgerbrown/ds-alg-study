@@ -1,6 +1,3 @@
-/*
-Big O and Scalability
-*/
 //
 // Linear Time
 //
@@ -97,3 +94,5 @@ function arrayOfHiNTimes(n) {
 }
 
 arrayOfHiNTimes(6) // Space complexity of O(n)
+
+
